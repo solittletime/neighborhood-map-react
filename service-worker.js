@@ -46,7 +46,7 @@ function serveStatic(request) {
   return caches.open(staticCacheName).then(function (cache) {
     return cache.match(storageUrl).then(function (response) {
       if (response) return response;
-      return fetch(request, {cache: "no-store"}).then(function (networkResponse) {
+      return fetch(request).then(function (networkResponse) {
         cache.put(storageUrl, networkResponse.clone());
         return networkResponse;
       }).catch(function () {
