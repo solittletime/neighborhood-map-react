@@ -1,0 +1,43 @@
+#mapid {
+  height: 568px;
+}
+
+div.modal {
+  z-index: 100001; /* Sit on top */
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 200px;
+  height: 120px;
+  color: rgba(255,255,255); /* White w/ opacity */
+  background-color: rgba(0,0,0,0.5); /* Black w/ opacity */
+}
+
+#filter:focus {
+  outline-color: rgba(0,0,0,0.5);;
+}
+
+#filter {
+  min-width: 100%;
+  font-size: 12px;
+  padding: 3px 0 3px 0;
+  border: 0;
+  background-color: rgba(255,255,255,0.7); /* White w/ opacity */
+}
+
+#list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#list li {
+  padding: 3px 0 3px 0;
+  text-decoration: none; /* Remove default text underline */
+  font-size: 12px; /* Increase the font-size */
+  display: block; /* Make it into a block element to fill the whole list */
+}
+
+#list li:hover:not(.header) {
+  background-color: #aaa; /* Add a hover effect to all links, except for headers */
+}

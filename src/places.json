@@ -1,0 +1,127 @@
+[
+  {
+    "index": 0,
+    "response": {
+      "venue": {
+        "id": "4150c080f964a520091d1fe3",
+        "name": "Trident Booksellers & Cafe",
+        "contact": {
+          "formattedPhone": "(617) 267-8688"
+        },
+        "location": {
+          "lat": 42.348496,
+          "lng": -71.086753,
+          "formattedAddress": [
+            "338 Newbury St (btwn Hereford St & Mass Ave)",
+            "Boston, MA 02115",
+            "United States"
+          ]
+        },
+        "bestPhoto": {
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/GhxUwvGRImNEGb7WFISPhQrpg8-A3tmj4Gb_QxsnVok.jpg"
+        }
+      }
+    }
+  },
+  {
+    "index": 1,
+    "response": {
+      "venue": {
+        "id": "4c24a25eb7b8a59364b93ce8",
+        "name": "Flour Bakery + Cafe",
+        "contact": {
+          "formattedPhone": "(617) 225-2525"
+        },
+        "location": {
+          "lat": 42.361025332089184,
+          "lng": -71.09664648771286,
+          "formattedAddress": [
+            "190 Massachusetts Ave (at Albany St)",
+            "Cambridge, MA 02139",
+            "United States"
+          ]
+        },
+        "bestPhoto": {
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/qReqNzXBcnDZn7xJQ4YFtsresdsU6fibJhg_TMH858w.jpg"
+        }
+      }
+    }
+  },
+  {
+    "index": 2,
+    "response": {
+      "venue": {
+        "id": "4a809329f964a520a0f51fe3",
+        "name": "Cafe Luna",
+        "contact": {
+          "formattedPhone": "(617) 576-3400"
+        },
+        "location": {
+          "lat": 42.362875,
+          "lng": -71.094341,
+          "formattedAddress": [
+            "612 Main St (Portland St)",
+            "Cambridge, MA 02139",
+            "United States"
+          ]
+        },
+        "bestPhoto": {
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/43151339_U0l4zyELpIHJCoWpz7SAwEEeWNkPLiF1y1dhNpwXIvs.jpg"
+        }
+      }
+    }
+  },
+  {
+    "index": 3,
+    "response": {
+      "venue": {
+        "id": "54502009498e59da3cbd35c0",
+        "name": "Darwin's Ltd.",
+        "contact": {
+          "formattedPhone": "(617) 497-1000"
+        },
+        "location": {
+          "lat": 42.362402245783784,
+          "lng": -71.0985137843173,
+          "formattedAddress": [
+            "313 Massachusetts Ave (State St.)",
+            "Cambridge, MA 02139",
+            "United States"
+          ]
+        },
+        "bestPhoto": {
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/372003861_boP9GTV7P1iBC5l4FTP4REv-ijJp8_4d3cwoMPrFIW0.jpg"
+        }
+      }
+    }
+  },
+  {
+    "index": 4,
+    "response": {
+      "venue": {
+        "id": "541dc4ef498e5af295858558",
+        "name": "Tatte Bakery & Cafe",
+        "contact": {
+          "formattedPhone": "(617) 354-4200"
+        },
+        "location": {
+          "lat": 42.36497832848713,
+          "lng": -71.08284870648953,
+          "formattedAddress": [
+            "318 Third Street (Linskey Way)",
+            "Cambridge, MA 02142",
+            "United States"
+          ]
+        },
+        "bestPhoto": {
+          "prefix": "https://igx.4sqi.net/img/general/",
+          "suffix": "/2524298_dAFG23pbLYt19hTPK8Cfgb_eu-fpKTKZpi6ySeR5Bv0.jpg"
+        }
+      }
+    }
+  }
+]
